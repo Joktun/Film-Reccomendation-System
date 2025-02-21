@@ -56,15 +56,15 @@ https://drive.google.com/file/d/1xnKnmAgaW7KsOcjwzGAjw7xB0cK4k_R7/view?usp=shari
 git clone https://github.com/Joktun/Film-Reccomendation-System
 
 ## Список необходимых библиотек и их импорт
-%matplotlib inline
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy import stats
-from ast import literal_eval
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.metrics.pairwise import linear_kernel, cosine_similarity
-from nltk.stem.snowball import SnowballStemmer
-from nltk.stem.wordnet import WordNetLemmatizer
+%matplotlib inline <br>
+import pandas as pd <br>
+import numpy as np <br>
+import matplotlib.pyplot as plt <br>
+import seaborn as sns <br>
+from scipy import stats <br>
+from ast import literal_eval <br>
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer <br>
+from sklearn.metrics.pairwise import linear_kernel, cosine_similarity <br>
+from nltk.stem.snowball import SnowballStemmer <br> 
+from nltk.stem.wordnet import WordNetLemmatizer <br>
 from nltk.corpus import wordnet
