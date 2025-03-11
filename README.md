@@ -39,7 +39,4 @@ git clone https://github.com/Joktun/Film-Reccomendation-System
 ```commandline
 cd Film-Reccomendation-System
 
-## Ссылка на датасет
-https://drive.google.com/file/d/1xnKnmAgaW7KsOcjwzGAjw7xB0cK4k_R7/view?usp=sharing
-
 
